@@ -8,8 +8,6 @@ const user  = {
 }
 
 const emp  = {
-
-
     name:"sojood",
     age:23,
     salary:2000,
