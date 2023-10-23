@@ -16,4 +16,17 @@ const emp  = {
     }
 }
 
+
+
+
+
+
+
+
+
+
 export {user,emp}
+
+
+// git config --global user.name "Your Name"
+// git config --global user.email "youremail@yourdomain.com"
