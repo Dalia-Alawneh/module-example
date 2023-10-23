@@ -10,7 +10,7 @@ const user  = {
 const emp  = {
 
 
-    name:"dalia",
+    name:"sojood",
     age:23,
     salary:2000,
     printUserDetails:function(){
